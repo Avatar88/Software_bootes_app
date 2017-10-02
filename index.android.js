@@ -6,16 +6,25 @@
  'use strict';
  /* eslint no-console: 0 */
 
-import React, { Component } from 'react';
-import { AppRegistry, Text } from 'react-native';
+ import React from 'react';
+ import {
+   AppRegistry,
+   Text,
+ } from 'react-native';
+ import { StackNavigator } from 'react-navigation';
 
-export default class App extends Component {
-  render() {
-    return (
-      <Text>Hello world!</Text>
-    );
-  }
-}
+ class HomeScreen extends React.Component {
+   static navigationOptions = {
+     title: 'Welcome',
+   };
+   render() {
+     return <Text>Hello, Navigation!</Text>;
+   }
+ }
+
+ export default const App = StackNavigator({
+   Home: { screen: HomeScreen },
+ });
 
 
 AppRegistry.registerComponent('testMap2', () => App);
