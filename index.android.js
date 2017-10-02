@@ -228,7 +228,7 @@
            Deselect annotation
          </Text>
          <Text onPress={this.removeMarker2}>
-           //Remove marker2 annotation
+           Remove marker2 annotation
          </Text>
          <Text onPress={() => this.setState({ annotations: [] })}>
            Remove all annotations
