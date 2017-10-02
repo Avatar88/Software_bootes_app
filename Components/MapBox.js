@@ -1,8 +1,22 @@
-import { AppRegistry, Text } from 'react-native';
+/**
+ * Sample React Native App
+ * https://github.com/facebook/react-native
+ * @flow
+ */
+ 'use strict';
+ /* eslint no-console: 0 */
 
-import App from './app.js';
+ import React, { Component } from 'react';
+ import Mapbox, { MapView } from 'react-native-mapbox-gl';
+ import {
+   AppRegistry,
+   StyleSheet,
+   Text,
+   StatusBar,
+   View,
+   ScrollView
+ } from 'react-native';
 
-<<<<<<< HEAD
  const accessToken = 'pk.eyJ1IjoiNHY0dDRyIiwiYSI6ImNqM3VybGlxdjAxMGczM3IzNWowb2pxZ3IifQ.D28R36MvyhdUPJiWM8lfRw';
  Mapbox.setAccessToken(accessToken);
 
@@ -214,7 +228,7 @@ import App from './app.js';
            Deselect annotation
          </Text>
          <Text onPress={this.removeMarker2}>
-           Remove marker2 annotation
+           //Remove marker2 annotation
          </Text>
          <Text onPress={() => this.setState({ annotations: [] })}>
            Remove all annotations
@@ -332,8 +346,4 @@ import App from './app.js';
    }
  });
 
-
-AppRegistry.registerComponent('testMap2', () => MapExample);
-=======
-AppRegistry.registerComponent('testMap2', () => App);
->>>>>>> 122174fa3480fc2d82c64755824e49eaff500334
+ 
