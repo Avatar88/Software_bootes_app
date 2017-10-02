@@ -339,7 +339,8 @@
      alignItems: 'stretch'
    },
    map: {
-     flex: 1
+     flex: 1,
+     width:100
    },
    scrollView: {
      flex: 1
