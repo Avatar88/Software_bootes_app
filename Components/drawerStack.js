@@ -10,7 +10,7 @@ const DrawerNavigation = StackNavigator({
       navigationOptions : ({navigation}) => ({
 
         headerStyle : {
-
+//eoa
             backgroundColor : 'rgb(255,45,85)',
             paddingLeft: 10,
             paddingLeft: 10,
