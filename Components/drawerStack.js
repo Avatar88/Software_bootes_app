@@ -29,8 +29,7 @@ const DrawerNavigation = StackNavigator({
           <TouchableHighlight //poder hacerlo touchable
 
             onPress = {() => {
-              //funcion que llama a navigation, le pasamos DrawerOpen para abrir
-              //el menu
+              if(navigation.state.index==0)
                 navigation.navigate('DrawerOpen');
 
             }}>
