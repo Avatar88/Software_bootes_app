@@ -1,15 +1,16 @@
 import { StackNavigator } from 'react-navigation';
-//as
-import DrawerStack from 'Components/drawerStack.js';
 
-const Navigator = StackNavigator({
+import DrawerStack from './Components/drawerStack.js';
+
+const Navigator = StackNavigator({//objeto navigator
 
         drawerStack : {screen : DrawerStack}
-
+// se puede añadir otro conjunto de pantallas como un login
         },{
-
+//propiedades que queremos modificar
         headerMode : 'none',
-        initalRouteName : 'drawerStack'
+        initalRouteName : 'drawerStack' //ruta principal
+
 
 })
 
