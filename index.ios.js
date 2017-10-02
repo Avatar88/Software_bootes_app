@@ -5,6 +5,8 @@
  */
 
 import React, { Component } from 'react';
+
+//hola mundo
 import {
   AppRegistry,
   StyleSheet,
