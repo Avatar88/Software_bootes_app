@@ -11,7 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
-
+//hfghgh
 export default class testMap2 extends Component {
   render() {
     return (
