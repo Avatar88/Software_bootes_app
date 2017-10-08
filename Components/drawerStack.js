@@ -40,9 +40,6 @@ const DrawerNavigation = StackNavigator({
 
               }
 
-              //funcion que llama a navigation, le pasamos DrawerOpen para abrir
-              //el menu
-
 
             }}>
             <Text>Menu</Text>
