@@ -15,7 +15,7 @@ app.get('/', function (req, res) {
           });
 
 
-        Person.createAsync({ cedula: "12121", nombres: "John Jaime", apellidos: "Amor mio" })
+        Person.createAsync({ cedula: "121", nombres: "John Jaime", apellidos: "Amor mio" })
         .then(function(results) {
     // ...
           res.send("Agrego correctamente");
