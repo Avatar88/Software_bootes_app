@@ -1,25 +1,48 @@
 import React, {Component} from 'react';
-import{View, Text, Alert} from 'react-native';
+import{View, Text, Alert, ListView} from 'react-native';
 import { FormLabel, FormInput,FormValidationMessage,Button,List, ListItem } from 'react-native-elements';
 
 
 class Screen3 extends Component {
 constructor(props){
   super(props);
+
+
   this.state = {
     cedula:'',
     nombres:'',
     apellidos:'',
     edad:'',
     telefono:'',
-    direccion:''
+    direccion:'',
+    datasource: new ListView.DataSource({rowHasChanged:(r1,r2)=> r1 != r2})
 
   }
 
 }
+async componentDidMount(){
+  try{
+    let response = await fetch("http://192.168.1.56:3000/persona/listar", {
+      method: "POST"
+
+    });
+    let responseJson = await response.json();
+    this.setState({
+      datasource: this.state.datasource.cloneWithRows(responseJson)
+
+
+    })
+    //alert("sucess "+responseJson.mensaje);
+  }catch(error) {
+    console.error(error);
+  }
+
+
+}
+
   async Click()  {
     try {
-      let response = await fetch("http://192.168.1.50:3000/persona/ingresar", {
+      let response = await fetch("http://192.168.1.56:3000/persona/ingresar", {
         method: "POST",
         headers: {
           'Accept': 'application/json',
@@ -42,7 +65,18 @@ constructor(props){
   render() {
     return(
       <View>
+      <ListView
+      dataSource = {this.state.datasource}
+      renderRow = {(rowData) =>
 
+        <View>
+
+          <Text>
+            {rowData.nombres}
+          </Text>
+        </View>
+      }
+      />
       <FormInput
       placeholder = "Cedula"
       onChangeText={(cedula) => this.setState({cedula})}
