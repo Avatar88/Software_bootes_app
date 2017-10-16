@@ -1,27 +1,65 @@
 var express = require('express');
 var http = require('http')
 //var socketio = require('socket.io');
-
+var bodyParser = require('body-parser')
 var app = express();
 var server = http.Server(app);
 
+app.use( bodyParser.json() );       // to support JSON-encoded bodies
+//app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
+//  extended: true
+//}));
+
 app.get('/', function (req, res) {
   orm.connectAsync('mysql://root@localhost/mydb')
-    .then(function(db) {
-      var Person = db.define("persona", {
-        cedula: String,
-        nombres : String,
-        apellidos : String
-          });
-
-
-        Person.createAsync({ cedula: "121", nombres: "John Jaime", apellidos: "Amor mio" })
-        .then(function(results) {
-    // ...
-          res.send("Agrego correctamente");
-        });
+  .then(function(db) {
+    var Person = db.define("persona", {
+      cedula: String,
+      nombres : String,
+      apellidos : String
     });
 
+
+    Person.createAsync(req.body)
+    .then(function(results) {
+      // ...
+      res.send({mensaje:"Agrego correctamente a "+req.body.nombres });
+    });
+  });
+
+});
+app.post('/persona/ingresar', function (req, res) {
+  //console.log(req.data);
+  //console.log(req.params);
+  //console.log(req.query.nombres);
+  orm.connectAsync('mysql://root@localhost/mydb')
+  .then(function(db) {
+    var Person = db.define("persona", {
+      cedula: String,
+      nombres : String,
+      apellidos : String
+      edad:Number,
+      telefono:String,
+      direccion:String
+    });
+
+
+    Person.createAsync(req.body)
+    .then(function(results) {
+      // ...
+      res.send({mensaje:"Agrego correctamente a "+req.body.nombres });
+    });
+  });
+
+
+});
+
+app.post('/prueba', function (req, res) {
+  //console.log(req.data);
+  //console.log(req.params);
+  //console.log(req.query.nombres);
+  console.log("nombre= "+JSON.stringify(req.body));
+  res.send({hola :"devuelve info de server"});
 });
 
 var orm = require("orm");

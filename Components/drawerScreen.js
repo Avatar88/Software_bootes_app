@@ -9,10 +9,10 @@ import Screen4 from '../Components/MapBox';
 
 //se crea una nueva instancia
 const DrawerScreen = DrawerNavigator({
-Screen1: {screen: Screen1},
-Screen2: {screen: Screen2},
-Screen3: {screen: Screen3},
-Screen4: {screen: Screen4}
+  Screen1: {screen: Screen1},
+  Screen2: {screen: Screen2},
+  Screen3: {screen: Screen3},
+  Screen4: {screen: Screen4}
 
 
 },{

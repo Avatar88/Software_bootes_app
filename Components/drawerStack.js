@@ -7,9 +7,9 @@ const DrawerNavigation = StackNavigator({
       DrawerStack : {screen : DrawerScreen}
 
     },{
-//le pasamos un objeto con mas personlaizacion
-//siempre este encima cuande escondael menu
-      headerMode : 'float',
+        //le pasamos un objeto con mas personlaizacion
+
+      headerMode : 'float',  //siempre este encima cuande esconda el menu
       navigationOptions : ({navigation}) => ({
 
         headerStyle : {
@@ -21,7 +21,7 @@ const DrawerNavigation = StackNavigator({
 
         },
 
-        title : 'Home',
+        title : 'Bootes',
         headerTintColor: 'white',//color de texto de la cabecera
         headerLeft : // le pasaremos un boton
         <View>
@@ -36,7 +36,7 @@ const DrawerNavigation = StackNavigator({
               }
             }}>
             <Text>Menu</Text>
-            </TouchableHighlight>
+          </TouchableHighlight>
 
         </View>
 
