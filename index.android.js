@@ -1,5 +1,3 @@
-import { AppRegistry, Text } from 'react-native';
-
-import App from './app.js';
-
+import { AppRegistry } from 'react-native';
+import App from './App'
 AppRegistry.registerComponent('testMap2', () => App);
