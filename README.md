@@ -22,7 +22,7 @@
 
 ### Link del video
 
-[Video]() 
+* [Video]() 
 
 
 # Links de interes
