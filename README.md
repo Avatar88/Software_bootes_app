@@ -6,7 +6,8 @@
 
 ### Formatos de planeación
 
-[Planeación grupal](https://docs.google.com/spreadsheets/d/1kGTsu-ASDxHc-qVGOP072cocsIuSPRY4qyHKBl4Qzqg/edit?usp=sharing) 
+* [Planeación grupal](https://docs.google.com/spreadsheets/d/1kGTsu-ASDxHc-qVGOP072cocsIuSPRY4qyHKBl4Qzqg/edit?usp=sharing) 
+# Planeación individual
 * [Cristian Camilo Diaz](https://docs.google.com/spreadsheets/d/1Ak0uSPCTFIc5wBKBTzp5htvkQJesgamH8zyyqyrLBZw/edit?usp=sharing)
 * [Jaime Andres Gomez](https://docs.google.com/spreadsheets/d/1VjykgrXbFvAI27j_4qMTumfuUUILSsD9StArTlcbXK8/edit?usp=sharing)
 
