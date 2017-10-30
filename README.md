@@ -12,6 +12,10 @@
 * [Jaime Andres Gomez](https://docs.google.com/spreadsheets/d/1VjykgrXbFvAI27j_4qMTumfuUUILSsD9StArTlcbXK8/edit?usp=sharing)
 * [Lideres](https://docs.google.com/spreadsheets/d/1KjXlT3eYw_nI_3z7JWU8t_NVsTD5E34Hejy9P_OlYJc/edit?usp=sharing)
 
+## Control de calidad
+
+* [Control de calidad](https://drive.google.com/file/d/0B7ovkg0wqaOwMEE3Q0tpblRaSk0/view?usp=sharing)
+
 
 # Documentación casos de uso fase 1
 
