@@ -14,7 +14,7 @@
 
 ## Control de calidad
 
-* [Control de calidad](https://drive.google.com/file/d/0B7ovkg0wqaOwMEE3Q0tpblRaSk0/view?usp=sharing)
+* [Control de calidad](https://docs.google.com/spreadsheets/d/1daO7aD5wtJwlJvyA7P_udDOGDbBvbVe2wxbwzVdVw6M/edit?usp=sharing)
 
 
 # Documentación casos de uso fase 1
