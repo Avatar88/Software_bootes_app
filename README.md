@@ -10,7 +10,7 @@
 ## Planeación individual
 * [Cristian Camilo Diaz](https://docs.google.com/spreadsheets/d/1Ak0uSPCTFIc5wBKBTzp5htvkQJesgamH8zyyqyrLBZw/edit?usp=sharing)
 * [Jaime Andres Gomez](https://docs.google.com/spreadsheets/d/1VjykgrXbFvAI27j_4qMTumfuUUILSsD9StArTlcbXK8/edit?usp=sharing)
-* [Lideres] (https://docs.google.com/spreadsheets/d/1KjXlT3eYw_nI_3z7JWU8t_NVsTD5E34Hejy9P_OlYJc/edit?usp=sharing)
+* [Lideres](https://docs.google.com/spreadsheets/d/1KjXlT3eYw_nI_3z7JWU8t_NVsTD5E34Hejy9P_OlYJc/edit?usp=sharing)
 
 
 [Boostnote Mobile](https://github.com/BoostIO/boostnote-mobile) - Markdown notepad for programmers!
