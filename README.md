@@ -17,8 +17,8 @@
 
 
 * [Login redes sociales](https://drive.google.com/drive/folders/0B01uWRVZosauOEdwWHFVRU9ZXzg?usp=sharing) 
-* [iTunes Store](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=io.boostnote)
+* [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a un crud será similar a este caso de uso.
+
 
 [Gas/Oil Mix Ratio Calculator](https://github.com/filippofilip95/gas-oil-mixture-mobile) - Mobile app which calculate Gasoline/Oil mix ratio for 2 stroke engines.
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.filippofilip.oilratiocalc)
