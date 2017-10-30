@@ -27,6 +27,8 @@
 ### Link del video
 
 * [Video]() 
+* [Archivo items video](https://docs.google.com/document/d/1cDhNOH9lXk90tiTdDm3MwJ8znetFORQbKyIIO1Dg-uc/edit?usp=sharing)
+
 
 
 # Links de interes
