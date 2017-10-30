@@ -4,7 +4,9 @@
 
 ### App desarrollada en react native
 
-[Cryptobullography](https://github.com/WebStew/bullet) - Cryptocurrency converter, manager and tracker.
+### Formatos de planeación
+
+[Planeación grupal](https://docs.google.com/spreadsheets/d/1kGTsu-ASDxHc-qVGOP072cocsIuSPRY4qyHKBl4Qzqg/edit?usp=sharing) - 
 * [Exponent](https://expo.io/@terminalpunk/bullet)
 * [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
