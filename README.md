@@ -2,14 +2,13 @@
 
 
 
-##### App desarrollada en react native
+### App desarrollada en react native
 
 ### Formatos de planeación
 
 [Planeación grupal](https://docs.google.com/spreadsheets/d/1kGTsu-ASDxHc-qVGOP072cocsIuSPRY4qyHKBl4Qzqg/edit?usp=sharing) 
-* [Exponent](https://expo.io/@terminalpunk/bullet)
-* [iTunes Store](https://itunes.apple.com/gb/app/crypto-coin-bull/id1257246245?mt=8)
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.webstew.bullet&hl=en)
+* [Cristian Camilo Diaz](https://docs.google.com/spreadsheets/d/1Ak0uSPCTFIc5wBKBTzp5htvkQJesgamH8zyyqyrLBZw/edit?usp=sharing)
+* [Jaime Andres Gomez](https://docs.google.com/spreadsheets/d/1VjykgrXbFvAI27j_4qMTumfuUUILSsD9StArTlcbXK8/edit?usp=sharing)
 
 [Boostnote Mobile](https://github.com/BoostIO/boostnote-mobile) - Markdown notepad for programmers!
 * [iTunes Store](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)
