@@ -13,12 +13,15 @@
 * [Lideres](https://docs.google.com/spreadsheets/d/1KjXlT3eYw_nI_3z7JWU8t_NVsTD5E34Hejy9P_OlYJc/edit?usp=sharing)
 
 
-# Documentación casos de uso
+# Documentación casos de uso fase 1
 
 
 * [Login redes sociales](https://drive.google.com/drive/folders/0B01uWRVZosauOEdwWHFVRU9ZXzg?usp=sharing) 
-* [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a un crud será similar a este caso de uso.
+* [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a un crud será similar al caso de uso "gestion productos".
 
+
+
+# Links de interes
 
 [Gas/Oil Mix Ratio Calculator](https://github.com/filippofilip95/gas-oil-mixture-mobile) - Mobile app which calculate Gasoline/Oil mix ratio for 2 stroke engines.
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.filippofilip.oilratiocalc)
