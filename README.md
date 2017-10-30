@@ -13,7 +13,10 @@
 * [Lideres](https://docs.google.com/spreadsheets/d/1KjXlT3eYw_nI_3z7JWU8t_NVsTD5E34Hejy9P_OlYJc/edit?usp=sharing)
 
 
-[Boostnote Mobile](https://github.com/BoostIO/boostnote-mobile) - Markdown notepad for programmers!
+# Documentación casos de uso
+
+
+* [Login redes sociales](https://drive.google.com/drive/folders/0B01uWRVZosauOEdwWHFVRU9ZXzg?usp=sharing) 
 * [iTunes Store](https://itunes.apple.com/us/app/boostnote/id1273066636?mt=8)
 * [Google Play Store](https://play.google.com/store/apps/details?id=io.boostnote)
 
