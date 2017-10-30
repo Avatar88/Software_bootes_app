@@ -20,6 +20,10 @@
 * [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a un crud será similar al caso de uso "gestion productos".
 
 
+### Link del video
+
+[Video]() 
+
 
 # Links de interes
 
