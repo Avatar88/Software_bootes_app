@@ -1,9 +1,8 @@
 ![React Native Apps](http://i63.tinypic.com/2rq26is.jpg "BOOTES APP")
 
 
-To get your project added, please submit a [pull request](https://github.com/ReactNativeNews/React-Native-Apps/pulls).
 
-### Open Source React Native Apps
+### App desarrollada en react native
 
 [Cryptobullography](https://github.com/WebStew/bullet) - Cryptocurrency converter, manager and tracker.
 * [Exponent](https://expo.io/@terminalpunk/bullet)
