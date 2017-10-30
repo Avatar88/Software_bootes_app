@@ -4,7 +4,7 @@
 
 ### App desarrollada en react native
 
-# Formatos de planeación
+# Formatos de planeación fase 1
 
 * [Planeación grupal](https://docs.google.com/spreadsheets/d/1kGTsu-ASDxHc-qVGOP072cocsIuSPRY4qyHKBl4Qzqg/edit?usp=sharing) 
 ## Planeación individual
