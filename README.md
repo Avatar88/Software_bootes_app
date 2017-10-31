@@ -21,12 +21,12 @@
 
 
 * [Login redes sociales](https://drive.google.com/drive/folders/0B01uWRVZosauOEdwWHFVRU9ZXzg?usp=sharing) 
-* [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a un crud será similar al caso de uso "gestion productos".
+* [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a este crud será similar al caso de uso "gestion productos".
 
 
 ### Link del video
 
-* [Video]() 
+* [Video](https://drive.google.com/file/d/0B7ovkg0wqaOwYkJSZE5Yb19FWDA/view?usp=sharing) 
 * [Archivo items video](https://docs.google.com/document/d/1cDhNOH9lXk90tiTdDm3MwJ8znetFORQbKyIIO1Dg-uc/edit?usp=sharing)
 
 
