@@ -6,22 +6,18 @@
 
 # Formatos de planeación fase 1
 
-* [Planeación grupal](https://docs.google.com/spreadsheets/d/1kGTsu-ASDxHc-qVGOP072cocsIuSPRY4qyHKBl4Qzqg/edit?usp=sharing) 
-## Planeación individual
-* [Cristian Camilo Diaz](https://docs.google.com/spreadsheets/d/1Ak0uSPCTFIc5wBKBTzp5htvkQJesgamH8zyyqyrLBZw/edit?usp=sharing)
-* [Jaime Andres Gomez](https://docs.google.com/spreadsheets/d/1VjykgrXbFvAI27j_4qMTumfuUUILSsD9StArTlcbXK8/edit?usp=sharing)
-* [Lideres](https://docs.google.com/spreadsheets/d/1KjXlT3eYw_nI_3z7JWU8t_NVsTD5E34Hejy9P_OlYJc/edit?usp=sharing)
-
-## Control de calidad
-
-* [Control de calidad](https://docs.google.com/spreadsheets/d/1daO7aD5wtJwlJvyA7P_udDOGDbBvbVe2wxbwzVdVw6M/edit?usp=sharing) 
-
+* [Formatos Planeacion Fase 1](https://drive.google.com/drive/folders/1MTpVFaeGVJHrywftptmxWQymgHGlsig5?usp=sharing)
 
 # Documentación casos de uso fase 1
 
 
 * [Login redes sociales](https://drive.google.com/drive/folders/0B01uWRVZosauOEdwWHFVRU9ZXzg?usp=sharing) 
 * [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a este crud será similar al caso de uso "gestion productos".
+
+
+# Formatos de planeación fase 2
+
+* [Formatos Planeacion Fase 1](https://drive.google.com/drive/folders/17rxqbhggUkntPIgu2d-_mmwQ0Zm4uv5k?usp=sharing)
 
 
 ### Link del video
