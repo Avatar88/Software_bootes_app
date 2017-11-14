@@ -17,7 +17,7 @@
 
 # Formatos de planeación fase 2
 
-* [Formatos Planeacion Fase 1](https://drive.google.com/drive/folders/17rxqbhggUkntPIgu2d-_mmwQ0Zm4uv5k?usp=sharing)
+* [Formatos Planeacion Fase 2](https://drive.google.com/drive/folders/17rxqbhggUkntPIgu2d-_mmwQ0Zm4uv5k?usp=sharing)
 
 
 ### Link del video
