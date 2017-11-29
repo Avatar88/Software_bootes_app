@@ -21,8 +21,8 @@
 
 # Casos de uso fase 3
 
-* [Gestion compra(con pasarela de pagos)]
-* [Gestion pedidos]
+* [Realizar pago]()
+* [Realizar pedido]()
 
 ### Link del video
 
