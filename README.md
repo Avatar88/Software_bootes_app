@@ -12,13 +12,17 @@
 
 
 * [Login redes sociales](https://drive.google.com/drive/folders/0B01uWRVZosauOEdwWHFVRU9ZXzg?usp=sharing) 
-* [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a este crud será similar al caso de uso "gestion productos".
+* [Gestión cliente](https://drive.google.com/drive/folders/0B01uWRVZosauYjBFOE9qdEk4OEU?usp=sharing) - La documentación de todo lo relacionado a este crud será similar al caso de uso "gestion productos, locales, clientes".
 
 
 # Formatos de planeación fase 2
 
 * [Formatos Planeacion Fase 2](https://drive.google.com/drive/folders/17rxqbhggUkntPIgu2d-_mmwQ0Zm4uv5k?usp=sharing)
 
+# Casos de uso fase 3
+
+* [Gestion compra(con pasarela de pagos)]
+* [Gestion pedidos]
 
 ### Link del video
 
