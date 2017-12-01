@@ -19,6 +19,12 @@
 
 * [Formatos Planeacion Fase 2](https://drive.google.com/drive/folders/17rxqbhggUkntPIgu2d-_mmwQ0Zm4uv5k?usp=sharing)
 
+# Documentación casos de uso fase 2
+
+* [Gestion local](https://drive.google.com/drive/folders/1xz0RLaCFCQcbxOshrNZ8C3JgRakwmNS0?usp=sharing)
+* [Mostrar locales en el mapa](https://drive.google.com/drive/folders/1LnxC5MnaPxDcFz2g_5AW-jw4DeogmNCo?usp=sharing)
+
+
 # Casos de uso fase 3
 
 * [Realizar pago]()
